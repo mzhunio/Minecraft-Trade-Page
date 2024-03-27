@@ -1,0 +1,19 @@
+@import "bulma/css/bulma.css";
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+@font-face {
+  font-family: "Minecraft";
+  src: url(minecraft-font/MinecraftRegular-Bmg3.otf);
+}
+@font-face {
+  font-family: "Minecraft-Bold";
+  src: url(minecraft-font/MinecraftBold-nMK1.otf);
+}
+@font-face {
+  font-family: "Minecraft-Title";
+  src: url(minecraft-ten-font/MinecraftTen-VGORe.ttf);
+}
+
+body {
+  font-family: "Minecraft";
+}
